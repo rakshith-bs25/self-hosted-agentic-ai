@@ -9,7 +9,6 @@ Primary responsibilities:
 - integration across PoCs
 - repository structure and technical decisions
 
-Suggested fit for Rakshith because of backend/full-stack experience and interest in AI systems.
 
 ## Role 2 - Literature and Survey Lead
 Primary responsibilities:
