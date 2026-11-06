@@ -10,7 +10,7 @@ Master's IT Security team project investigating free and open-source agentic AI 
 4. Select representative systems for proof-of-concept implementations.
 5. Evaluate the selected systems in a common benchmark environment.
 6. Compare functionality, reliability, performance, resource use, security, deployment effort, and reproducibility.
-7. Build a reusable evaluation platform that may later support enterprise/laboratory AI use cases.
+7. Build a reusable evaluation platform that may later support enterprise AI use cases.
 
 ## Repository structure
 

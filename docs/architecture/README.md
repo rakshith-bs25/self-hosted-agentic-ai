@@ -10,10 +10,10 @@ Recommended files later:
 - model-serving-architecture.drawio
 - model-serving-architecture.png
 
-## Initial target architecture
+## Initial target architecture (proposal, open for team discussion)
 
 User / Evaluation UI
--> FastAPI evaluation backend
+-> Evaluation backend
 -> Benchmark orchestrator
 -> Common agent adapter/interface
 -> Selected agent framework/system
@@ -22,7 +22,7 @@ User / Evaluation UI
 -> Controlled tools
 
 Controlled tools may include:
-- PostgreSQL
+- database
 - local documents / retrieval
 - test REST API
 - calculator

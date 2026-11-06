@@ -24,10 +24,10 @@ Same task + same data + same available tools + same model where possible + same 
 ## Example task
 
 Question:
-"Which laboratory devices have calibration due within the next 30 days, and what maintenance instructions apply?"
+"Which assets have maintenance due within the next 30 days, and what instructions apply?"
 
 Possible workflow:
-1. query PostgreSQL
+1. query the database
 2. retrieve relevant documentation
 3. combine results
 4. return structured answer

@@ -2,9 +2,9 @@
 
 Optional engineering layer for running and demonstrating experiments.
 
-Potential architecture:
-- Next.js + TypeScript frontend
-- FastAPI backend
+Potential architecture (technology choices to be decided by the team):
+- web frontend
+- backend API
 - benchmark orchestrator
 - common agent adapter layer
 - results/trace visualization

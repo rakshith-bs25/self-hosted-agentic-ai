@@ -4,7 +4,7 @@ Shared infrastructure for the project.
 
 Planned components:
 - Docker / Docker Compose
-- PostgreSQL
+- database (to be decided)
 - self-hosted model serving
 - monitoring and resource measurement
 - shared test services

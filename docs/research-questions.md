@@ -18,7 +18,7 @@ What security risks and control mechanisms are relevant when self-hosted agents 
 What trade-offs exist between fully self-hosted deployment and cloud-dependent deployment with respect to capability, privacy, control, cost, and operational effort?
 
 ## RQ6
-Which architectural patterns appear most suitable for enterprise-style use cases such as internal knowledge access, laboratory workflows, maintenance information, and controlled business-system actions?
+Which architectural patterns appear most suitable for enterprise-style use cases such as internal knowledge access, operational workflows, maintenance information, and controlled business-system actions?
 
 ## Notes on hypotheses
 Do not invent hypotheses only because some research projects use them. If the final study is exploratory/comparative, research questions may be sufficient. Add hypotheses only where the team has a justified expectation that can be tested.

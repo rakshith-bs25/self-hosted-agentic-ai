@@ -2,13 +2,14 @@
 
 Each member should contribute technically and own one PoC. The roles below are horizontal responsibilities, not exclusive job boundaries.
 
+Role assignments are open and will be agreed by the team.
+
 ## Role 1 - Architecture and Integration Lead
 Primary responsibilities:
 - overall technical architecture
 - common interfaces/adapters
 - integration across PoCs
 - repository structure and technical decisions
-
 
 ## Role 2 - Literature and Survey Lead
 Primary responsibilities:
@@ -22,7 +23,7 @@ Primary responsibilities:
 Primary responsibilities:
 - Docker/Compose
 - local model serving
-- PostgreSQL and shared services
+- database and shared services
 - hardware/resource documentation
 - reproducibility
 
