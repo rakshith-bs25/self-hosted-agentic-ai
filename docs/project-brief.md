@@ -35,8 +35,8 @@ Intended team size: 2-4 students (this team: 5, approved by supervisor)
 
 | Date | Milestone |
 |---|---|
-| 20 Nov 2026 | Kickoff presentation to supervisor: understanding of the topic, approach, timeline, tools, work distribution |
-| tbd | Final presentation |
+| 24 Nov 2026 | Kickoff presentation to supervisor: understanding of the topic, approach, timeline, tools, work distribution |
+| 18 Jan 2027 | Final presentation |
 | tbd | Report submission |
 
 ## Open questions for the supervisor
@@ -46,6 +46,3 @@ Intended team size: 2-4 students (this team: 5, approved by supervisor)
 3. Is a security evaluation expected for every PoC?
 4. Should the PoCs cover different types of agentic systems (e.g. single-agent, multi-agent, coding agent)?
 5. Which Sapkota paper is meant exactly? Is it acceptable to use NIST AI 100-2 E2025 instead of / in addition to E2023?
-6. Report: expected length, template, language (English/German)? Team report or individual parts?
-7. Final presentation date and any intermediate check-ins?
-8. With two teams on the same topic: coordinate to avoid overlap, or work independently?

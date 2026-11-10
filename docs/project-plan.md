@@ -21,45 +21,47 @@ Five students. Each student should own one proof-of-concept unless the superviso
 
 ## Target timeline
 
-### November 2026 - Foundation
+### 10 – 24 Nov 2026 - Foundation
 - Create project workspace and repository
-- Read foundational papers and standards
+- Read required sources (brief) and summarize them
 - Define terminology
-- Define survey methodology
-- Identify candidate FOSS systems
-- Agree inclusion/exclusion criteria
+- Define survey methodology and inclusion/exclusion criteria
+- Start candidate FOSS system list
 - Draft research questions
+- Prepare and hold first presentation (24 Nov)
 
-### December 2026 - Selection and benchmark design
+### 25 Nov – 7 Dec 2026 - Survey and selection
 - Complete candidate-system survey
-- Select final PoC systems
-- Freeze system-selection rationale
-- Define benchmark task categories
-- Define common datasets/tools
-- Define metrics and success criteria
-- Design common infrastructure
+- Select final PoC systems and freeze selection rationale
+- Choose shared model and runtime (depends on available hardware)
+- Define benchmark tasks, metrics and success criteria
+- Define security test set (based on NIST/BSI)
+- Set up common infrastructure
 
-### January 2027 - Implementation
+### 8 – 21 Dec 2026 - Implementation
 - Build one PoC per selected system
 - Containerize systems where practical
-- Integrate local/self-hosted model serving
-- Connect common benchmark tools
+- Connect to shared self-hosted model serving
 - Add logging/tracing
 - Run pilot benchmark
 
-### February 2027 - Evaluation
-- Run final benchmark
-- Run security tests
-- Collect performance/resource metrics
-- Analyse failures and limitations
-- Compare systems
-- Prepare figures/tables
+### 22 Dec 2026 – 4 Jan 2027 - Holiday buffer
+- Catch up on delayed PoCs (reduced availability expected)
 
-### March 2027 - Finalization if needed
-- Repeat weak experiments
-- Complete report
-- Prepare demo/UI
-- Final presentation
+### 5 – 11 Jan 2027 - Evaluation and final presentation prep
+- Run final benchmark and security tests
+- Collect performance/resource metrics
+- Compare systems, prepare figures/tables
+- Prepare final presentation, dry run
+
+### 12 Jan 2027 - Final presentation
+
+### 13 Jan – mid-March 2027 - Analysis and report
+- Repeat weak or incomplete experiments
+- Deepen failure and security analysis
+- Write and finalize the scientific report (Overleaf)
+- Submit final report (mid-March)
+
 
 ## Core engineering principle
 

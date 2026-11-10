@@ -7,10 +7,10 @@ Each reader writes a summary in `literature/notes/<source>.md` using `literature
 
 | # | Source (as cited in the brief) | Link | Focus | Reader | Due | Status | Notes |
 |---|---|---|---|---|---|---|---|
-| A1 | NIST AI 100-2e2023, "Adversarial Machine Learning – A Taxonomy and Terminology of Attacks and Mitigations" (NIST, USA, 2024) | https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf | Attack taxonomy and terminology; GenAI attacks (prompt injection, supply chain, misuse); mitigations | | 14 Nov | open | |
-| A2 | BSI material on AI | https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/kuenstliche-intelligenz_node.html | German perspective, recommendations, digital sovereignty | | 14 Nov | open | |
-| A3 | [Gohil2026] V. Gohil, S.B. Shah, K. Rauniyar et al.: Towards safe and trustworthy agentic AI: foundations, taxonomy, technologies, applications, and future directions. Artif Intell Rev (2026) | https://doi.org/10.1007/s10462-026-11682-8 (open-access PDF: https://pure.jgu.edu.in/id/eprint/12355/1/Towards%20safe%20and%20trustworthy%20agentic%20AI.pdf) | Taxonomy dimensions usable for classifying systems | | 14 Nov | open | |
-| A4 | [Sapkota2026] — full citation to be copied from the brief's reference list | tbd | AI agents vs. agentic AI; structure for the survey | | 14 Nov | open | |
+| A1 | NIST AI 100-2e2023, "Adversarial Machine Learning – A Taxonomy and Terminology of Attacks and Mitigations" (NIST, USA, 2024) | https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf | Attack taxonomy and terminology; GenAI attacks (prompt injection, supply chain, misuse); mitigations | Jishan, Tanmayi | 14 Nov | open | |
+| A2 | BSI material on AI | https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/kuenstliche-intelligenz_node.html | German perspective, recommendations, digital sovereignty | Rakshith | 14 Nov | open | |
+| A3 | [Gohil2026] V. Gohil, S.B. Shah, K. Rauniyar et al.: Towards safe and trustworthy agentic AI: foundations, taxonomy, technologies, applications, and future directions. Artif Intell Rev (2026) | https://doi.org/10.1007/s10462-026-11682-8 (open-access PDF: https://pure.jgu.edu.in/id/eprint/12355/1/Towards%20safe%20and%20trustworthy%20agentic%20AI.pdf) | Taxonomy dimensions usable for classifying systems | Anjan | 14 Nov | open | |
+| A4 | [Sapkota2026] — full citation to be copied from the brief's reference list | tbd | AI agents vs. agentic AI; structure for the survey | Tejaswini | 14 Nov | open | |
 
 ## B. Additional sources (added by the team)
 
